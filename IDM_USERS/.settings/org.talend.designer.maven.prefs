@@ -1,0 +1,4 @@
+PROJECT_GROUPID=org.example.idm_users
+PROJECT_VERSION=8.0.1
+SKIP_LOOP_DEPENDENCY_CHECK=true
+eclipse.preferences.version=1
